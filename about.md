@@ -1,4 +1,4 @@
-# About Us | Root of Geo
+# About Us - Root of Geo
 
 Welcome to **Root of Geo** — your premier cloud server and infrastructure hub. We provide high-performance, reliable, and scalable cloud hosting solutions tailored to modern developers, creators, and businesses.
 
